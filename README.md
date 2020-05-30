@@ -10,10 +10,10 @@ This system can detect fires on video frames. I have used HSV algorithm to track
 - Laptop With Internet
 - Python 3.7 or later versions
 - Python Libraries
-  -cv2 - Command(pip install opencv-python)
-  -numpy - Command(pip install numpy)
-  -smtplib - Command(pip install secure-smtplib)
-  -playsound - Command(pip install playsound)
+  - cv2 - Command(pip install opencv-python)
+  - numpy - Command(pip install numpy)
+  - smtplib - Command(pip install secure-smtplib)
+  - playsound - Command(pip install playsound)
 
 # How To Use
 1.Download an image which you want to work on in .mov format.
