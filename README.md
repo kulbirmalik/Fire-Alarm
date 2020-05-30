@@ -16,8 +16,8 @@ This system can detect fires on video frames. I have used HSV algorithm to track
   - playsound - Command(pip install playsound)
 
 # How To Use
-1.Download an image which you want to work on in .mov format.
-2.Open the command prompt and run the python file.
+- Download an image which you want to work on in .mov format.
+- Open the command prompt and run the python file.
 
 
 
